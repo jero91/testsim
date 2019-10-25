@@ -2,6 +2,7 @@
 
 ## Introduction
 
+Comprobacion
 In this project, you will be analysing RNA-seq data from Escherichia coli bacteria.
 These bacteria have had some DNA-damage handling proteins over-expressed, and you
 would like to perform a transcriptome-wide study of its effects.
